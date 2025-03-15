@@ -7,7 +7,7 @@
 - 📈 As my degree has a concentration in Artificial Intelligence, I am actively expanding my knowledge of Machine Learning and Neural Networks. The latest architechture I have been exploring is ResNet. 
 - 🛠️ I also have a strong interest in developing full-stack web applications, which stems from the satisfaction of seeing my back-end solutions come to life through interactive front-end interfaces.
 ## 💻 Tech Stack
-- Languages: 
+- Languages: \
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=48 height=48 />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=48 height=48 />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=48 height=48 />
@@ -15,10 +15,11 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=48 height=48 />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=48 height=48 />
           
-- Databases:
+- Databases: \
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=48 height=48 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
 
-- Frameworks/Libraries:
+- Frameworks/Libraries: \
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width=48 height=48 />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=48 height=48 />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=48 height=48 />
