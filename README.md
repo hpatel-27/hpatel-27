@@ -11,7 +11,9 @@
 - Developer Tools:
 
 ## 📪 Connect With Me:
-<img align="left" alt="LinkedIn" width="30px" src="./assets/linkedin_icon.png" /> <img align="left" alt="Website" width="30px" src="./assets/website_icon.png" /> <img align="left" alt="Email" width="30px" src="./assets/gmail_icon.png" />   harshpxv@gmail.com
+[![LinkedIn](./assets/linkedin_icon.png)](https://www.linkedin.com/in/harsh-patel10/)
+[![Portfolio](./assets/website_icon.png)](https://hpatel-27.github.io/)
+[![Email](./assets/gmail_icon.png)](mailto:harshpxv@gmail.com) [**harshpxv@gmail.com**](mailto:harshpxv@gmail.com)
 
 Thanks for stopping by! Feel free to explore my projects and reach out if you see areas for improvement or if you'd like to connect or collaborate.
 ```
