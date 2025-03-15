@@ -1,4 +1,7 @@
-## Hello World, I'm Harsh Patel👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Harsh%20Patel&fontSize=90" />
+</p>
+
 CS | AI Concentration @ North Carolina State University '25
 
 - 🔭 I’m currently working on [Tempest](https://github.com/hpatel-27/Tempest-Fitness), a full-stack fitness application to help users track their weight and log their workouts to monitor changes and progression. I'm also working on my [portfolio website](https://hpatel-27.github.io/) to show others who I am.
