@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=614a9b&height=250&section=header&text=Hi,%20I'm%20Harsh%20Patel!&fontSize=60" />
 </p>
-![image](assets/linkedin.png)
 
 🎓 CS | AI Concentration @ North Carolina State University '25 🎓
 - 🔭 I’m currently working on [Tempest](https://github.com/hpatel-27/Tempest-Fitness)⚡, a full-stack fitness application to help users track their weight and log their workouts to monitor changes and progression. I'm also working on my [portfolio website](https://hpatel-27.github.io/) to show others who I am.
@@ -12,7 +11,8 @@
 - Developer Tools:
 
 ## 📪 Connect With Me:
-- [LinkedIn](https://www.linkedin.com/in/harsh-patel10/)
+[![image](assets/linkedin.png)
+](https://www.linkedin.com/in/harsh-patel10/)
 - [Portfolio](https://hpatel-27.github.io/)
 - Send me an email at harshpxv@gmail.com!
 
