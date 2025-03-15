@@ -11,10 +11,17 @@
 - Developer Tools:
 
 ## 📪 Connect With Me:
-[![image](assets/linkedin.png)
-](https://www.linkedin.com/in/harsh-patel10/)
-- [Portfolio](https://hpatel-27.github.io/)
-- Send me an email at harshpxv@gmail.com!
+<p align="left">
+  <a href="https://www.linkedin.com/in/harsh-patel10/" target="_blank">
+    <img src="./assets/linkedin_icon.png" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://hpatel-27.github.io/" target="_blank">
+    <img src="./assets/website_icon.png" width="40" alt="Website"/>
+  </a>
+  <a href="mailto:harshpxv@gmail.com" target="_blank">
+    <img src="./assets/gmail_icon.png" width="40" alt="Email"/>
+  </a>
+</p>
 
 Thanks for stopping by! Feel free to explore my projects and reach out if you see areas for improvement or if you'd like to connect or collaborate.
 ```
