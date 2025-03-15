@@ -40,16 +40,4 @@
 [![Email](./assets/gmail_icon.png)](mailto:harshpxv@gmail.com) \
 You can also find my email at: [**harshpxv@gmail.com**](mailto:harshpxv@gmail.com)
 
-Thanks for stopping by! Feel free to explore my projects and reach out if you see areas for improvement or if you'd like to connect or collaborate.
-```
-hpatel-27@github
--------------------------
-Location: Raleigh, NC
-Languages: Java, Python, C/C++, SQL (MySQL),
-          JavaScript/Typescript, HTML/CSS
-Frameworks/Libraries: PyTorch, React, Node.js,
-          Flask, JUnit
-Developer Tools: Git/Github, Docker, AWS
-Learning: ResNet Architechture
-Hobbies: Fitness, Cars, Pokémon
-```
+Thanks for stopping by! Feel free to explore my projects and reach out if you see areas for improvement or if you'd like to connect or collaborate!
