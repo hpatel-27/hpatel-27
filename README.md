@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Harsh%20Patel!&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=614a9b&height=300&section=header&text=Hi,%20I'm%20Harsh%20Patel!&fontSize=60" />
 </p>
 
 CS | AI Concentration @ North Carolina State University '25
