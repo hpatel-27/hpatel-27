@@ -9,7 +9,7 @@
 ## 📪 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/harsh-patel10/)
 - [Portfolio](https://hpatel-27.github.io/)
-- Email - harshpxv@gmail.com
+- Send me an email at: harshpxv@gmail.com
 
 ```
 hpatel-27@github
