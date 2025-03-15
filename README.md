@@ -13,7 +13,8 @@
 ## 📪 Connect With Me:
 [![LinkedIn](./assets/linkedin_icon.png)](https://www.linkedin.com/in/harsh-patel10/)
 [![Portfolio](./assets/website_icon.png)](https://hpatel-27.github.io/)
-[![Email](./assets/gmail_icon.png)](mailto:harshpxv@gmail.com) [**harshpxv@gmail.com**](mailto:harshpxv@gmail.com)
+[![Email](./assets/gmail_icon.png)](mailto:harshpxv@gmail.com) 
+Email: [**harshpxv@gmail.com**](mailto:harshpxv@gmail.com)
 
 Thanks for stopping by! Feel free to explore my projects and reach out if you see areas for improvement or if you'd like to connect or collaborate.
 ```
