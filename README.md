@@ -6,6 +6,7 @@
 - 🚧 I'm currently working on <a href="https://github.com/hpatel-27/Tempest-Fitness" style="text-decoration:none; color:inherit;"><b style="text-decoration: none; color: inherit;">Tempest⚡</b></a>, a full-stack fitness application to help users track their weight and log their workouts to monitor changes and progression.
 - 📈 As my degree has a concentration in Artificial Intelligence, I am actively expanding my knowledge of Machine Learning and Neural Networks. The latest architechture I have been exploring is ResNet. 
 - 🛠️ I also have a strong interest in developing full-stack web applications, which stems from the satisfaction of seeing my back-end solutions come to life through interactive front-end interfaces.
+- 💡 Hobbies: Fitness, Pokémon, Cars, Basketball
 ## 💻 Tech Stack
 - Languages: \
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=48 height=48 />
