@@ -3,7 +3,7 @@
 </p>
 
 🎓 CS | AI Concentration @ North Carolina State University '25 🎓
-- 🚧 I'm currently working on <a href="https://github.com/hpatel-27/numpy-net" style="text-decoration:none; color:inherit;"><b style="text-decoration: none; color: inherit;">numpy-net </b></a>, a fully connected feedforward neural network implemented from scratch using only Python and Numpy with MNIST dataset. No TensorFlow. No PyTorch.
+- 🚧 I'm currently working on learning more about Deep Neural Networks, Transformers, and reading papers so that I can eventually learn how to fine-tune an LLM.
 - 📈 As my degree has a concentration in Artificial Intelligence, I am actively expanding my knowledge of Machine Learning and Neural Networks. The latest architechture I have been exploring is ResNet. 
 - 🛠️ I also have a strong interest in developing full-stack web applications, which stems from the satisfaction of seeing my back-end solutions come to life through interactive front-end interfaces.
 - 💡 Hobbies: Fitness, Pokémon, Cars, Basketball
